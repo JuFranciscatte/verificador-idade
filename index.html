@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Verificador de Idade</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Verificador de Idade</h1>
+  </header>
+  <section>
+    <div>
+      <p> Ano de Nascimento:
+        <input class="ano" type="number" id="txtano" name="txtano" placeholder="Digite o ano de nascimento">
+      </p>
+      <p> Sexo:
+        <input type="radio" id="mas" name="radsex" checked>
+        <label for="mas">Masculino</label>
+
+        <input type="radio" id="fem" name="radsex">
+        <label for="fem">Feminino</label>
+
+      </p>
+
+      <div class="container-button">
+        <button type="button" class="buttonVerificar" onclick="verificar()">Verificar</button>
+        <button type="button" class="buttonLimpar" onclick="limpar()">
+          <img class="icon" src="icon/vassoura.png" alt="Limpar" width="20px" height="20px">
+        </button>
+
+      </div>
+    </div>
+    <div id="res">
+      Preencha os dados acima e clique em "Verificar" para ver o resultado.
+
+    </div>
+  </section>
+  <footer>
+    <p> &hearts; JuliaFranciscatte</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -3,7 +3,7 @@
 
 <h3> Você pode acessar o projeto clicando <a href="https://jufranciscatte.github.io/verificador-idade/" target="_blank">aqui</a> </h3>
 
-Este é um projeto feito com **HTML**, **CSS** e **JavaScript** que verifica a idade do usuário com base no ano de nascimento digitado e no sexo selecionado. Após a verificação, uma imagem é exibida de acordo com a faixa etária e o gênero. Desenvolvido com base em exercício do Curso em Vídeo para prática de tecnologias WEB.
+Este é um projeto feito com **HTML**, **CSS** e **JavaScript** que verifica a idade do usuário com base no ano de nascimento digitado e no sexo selecionado. Após a verificação, uma imagem é exibida de acordo com a faixa etária e o gênero.
 
 <table>
    <tr>

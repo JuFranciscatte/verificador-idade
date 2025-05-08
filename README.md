@@ -20,6 +20,8 @@ Este é um projeto feito com **HTML**, **CSS** e **JavaScript** que verifica a i
 
 ## 📸 Demonstração
 
+Você pode acessar o projeto clicando <a href="https://verifica-idade.netlify.app](https://jufranciscatte.github.io/verificador-idade/" target="_blank">aqui</a>
+
 O projeto exibe imagens diferentes conforme a faixa etária:
 
 - 👶 Criança (0 - 10 anos)
